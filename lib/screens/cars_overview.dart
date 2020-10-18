@@ -1,5 +1,5 @@
-import 'package:carApp/utils/utils.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_app/utils/utils.dart';
 import '../widgets/cars_grid.dart';
 
 class CarsOverviewScreen extends StatelessWidget {
@@ -18,7 +18,7 @@ class CarsOverviewScreen extends StatelessWidget {
             padding: const EdgeInsets.all(8.0),
             child: Text(
               'Available Cars',
-              style: MainHeading,
+              style:MainHeading,
             ),
           ),
           Padding(
