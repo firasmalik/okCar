@@ -7,4 +7,4 @@ const MainHeading=TextStyle(
 const SubHeading=TextStyle(fontWeight:FontWeight.bold,fontSize: 30);
 
 
-const BasicHeading=TextStyle(fontSize: 20);
+const BasicHeading=TextStyle(fontSize: 15);
